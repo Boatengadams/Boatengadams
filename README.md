@@ -148,13 +148,19 @@ I build with these principles in mind:
 
 # 🚀 Selected Projects
 
-### 🎓 EduTec — School Management & Digital Learning Platform
+### EduTec — School Management & Digital Learning Platform
 
 **Protecting data. Creating futures.**
 
 A multi-role school management platform designed to bring administration, teaching, student records, attendance, assessments, results, and parent communication into one digital workflow.
 
 **What it demonstrates:** role-based access, school-isolated data, attendance and results workflows, parent communication, Firebase services, and security-focused access control.
+
+**Built with**
+
+[![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Cline](https://img.shields.io/badge/Cline-5B4B8A?style=flat-square)](https://github.com/cline/cline)
+[![Expo Go](https://img.shields.io/badge/Expo%20Go-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/go)
 
 `Full-Stack Development` · `Education Technology` · `Firebase` · `Security`
 
@@ -181,6 +187,11 @@ The system combines a public ecommerce experience with internal operational tool
 * Cloud functions and server-side workflows
 * Cloudflare security infrastructure
 
+**Built with**
+
+[![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Cline](https://img.shields.io/badge/Cline-5B4B8A?style=flat-square)](https://github.com/cline/cline)
+
 **Focus:** Full-Stack Development · Business Systems · Cloud · Security · Payments
 
 ---
@@ -194,6 +205,12 @@ The platform is intended to connect students with their assigned:
 **Institution → Hall/Hostel → Room → Roommates → Accommodation Information**
 
 The architecture emphasizes institution-isolated access, role-based permissions, and secure accommodation data management.
+
+**Built with**
+
+[![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Cline](https://img.shields.io/badge/Cline-5B4B8A?style=flat-square)](https://github.com/cline/cline)
+[![Expo Go](https://img.shields.io/badge/Expo%20Go-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/go)
 
 **Focus:** React Native · Expo · Authentication · Secure Data Architecture · University Technology
 
@@ -215,13 +232,23 @@ The project explores:
 * Gravitational direction and magnitude
 * Interactive educational overlays
 
+**Built with**
+
+[![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Cline](https://img.shields.io/badge/Cline-5B4B8A?style=flat-square)](https://github.com/cline/cline)
+
 **Focus:** Modern C++ · Raylib · Physics Simulation · Educational Technology
 
 ---
 
-### 👁️ AI Suspicious Activity & Object Detection
+### AI Suspicious Activity & Object Detection
 
 An experimental computer-vision project exploring how AI-assisted visual analysis can be applied to security and suspicious-activity detection.
+
+**Built with**
+
+[![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Cline](https://img.shields.io/badge/Cline-5B4B8A?style=flat-square)](https://github.com/cline/cline)
 
 **Focus:** Computer Vision · Machine Learning · AI · Security Research
 
