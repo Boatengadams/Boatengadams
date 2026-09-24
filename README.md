@@ -47,7 +47,7 @@ I’m currently pursuing opportunities in **Software Engineering**, **Full-Stack
 
 ---
 
-## 🧠 Engineering Philosophy
+##  Engineering Philosophy
 
 > **Build it. Understand it. Secure it. Ship it.**
 
@@ -63,7 +63,7 @@ I build with these principles in mind:
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack-0A66C2?style=flat-square" alt="Full Stack" />
@@ -146,7 +146,7 @@ I build with these principles in mind:
 
 ---
 
-# 🚀 Selected Projects
+#  Selected Projects
 
 ### EduTec — School Management & Digital Learning Platform
 
@@ -167,7 +167,7 @@ A multi-role school management platform designed to bring administration, teachi
 ---
 
 
-### ⚡ Cofkans Electricals — Multi-Branch Business Platform
+###  Cofkans Electricals — Multi-Branch Business Platform
 
 A production-oriented digital platform designed for a multi-branch electrical products business.
 
@@ -196,7 +196,7 @@ The system combines a public ecommerce experience with internal operational tool
 
 ---
 
-### 🔑 BAGS-KEY SYSTEM — University Accommodation Platform
+###  BAGS-KEY SYSTEM — University Accommodation Platform
 
 A secure accommodation and room-key management concept designed for university environments.
 
@@ -216,7 +216,7 @@ The architecture emphasizes institution-isolated access, role-based permissions,
 
 ---
 
-### 🌌 Solar System Simulator
+###  Solar System Simulator
 
 An educational C++ simulation focused on helping students understand fundamental astronomy and physics concepts through interactive visualization.
 
@@ -254,7 +254,7 @@ An experimental computer-vision project exploring how AI-assisted visual analysi
 
 ---
 
-### 🏪 Business & Management Systems
+###  Business & Management Systems
 
 I've also worked on concepts and implementations involving:
 
@@ -271,7 +271,7 @@ These projects have helped me understand how software translates into actual bus
 
 ---
 
-# 📈 What I'm Currently Learning
+#  What I'm Currently Learning
 
 I'm continuously strengthening my foundation in:
 
@@ -315,7 +315,7 @@ I'm open to:
 
 ---
 
-# 📊 GitHub Activity
+#  GitHub Activity
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Boatengadams&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Adams's GitHub Stats"/>
